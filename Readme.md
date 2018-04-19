@@ -1,5 +1,15 @@
 # Carbon Design withing React Storybook
 
+This repository was build to create examples of components and Carbon design patterns
+within Storybook.
+
+## Install
+
+```bash
+yarn install
+yarn storybook
+```
+
 ## Resources
 
 * [React Carbon Components](http://react.carbondesignsystem.com)
