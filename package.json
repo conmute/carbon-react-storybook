@@ -1,0 +1,29 @@
+{
+  "name": "react-storybook",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Roman M. Kos",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "storybook": "start-storybook -p 9001 -c .storybook"
+  },
+  "devDependencies": {
+    "@storybook/react": "^3.4.2",
+    "babel-core": "^6.26.0",
+    "css-loader": "^0.28.11",
+    "node-sass": "^4.8.3",
+    "paths.macro": "^2.0.2",
+    "postcss-loader": "^2.1.4",
+    "sass-loader": "^7.0.1",
+    "style-loader": "^0.21.0"
+  },
+  "dependencies": {
+    "@storybook/addon-info": "^3.4.2",
+    "carbon-components": "^8.18.13",
+    "carbon-components-react": "^5.42.0",
+    "carbon-icons": "^6.3.2",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  }
+}
